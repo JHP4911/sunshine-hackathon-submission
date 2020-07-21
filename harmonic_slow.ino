@@ -13,10 +13,6 @@ float speedA = 0.03;   // deg per microsecond
 float speedB = 0.06;
 float speedC = 0.12;
 
-/*float speedA = 0.007*3;
-float speedB = 0.011*3;
-float speedC = 0.018*3;*/
-
 bool AGoUp = true;
 bool BGoUp = true;
 bool CGoUp = true;
