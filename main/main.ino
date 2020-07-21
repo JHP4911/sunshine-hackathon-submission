@@ -9,7 +9,7 @@ float angleA = 40;
 float angleB = 40;
 float angleC = 40;
 
-float speedA = 0.06;   // deg per microsecond
+float speedA = 0.06;   // deg per millisecond
 float speedB = 0.12;
 float speedC = 0.24;
 
